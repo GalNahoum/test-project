@@ -17,3 +17,6 @@ An interactive web animation featuring bouncing Hebrew words that multiply when 
 - HTML5
 - JavaScript
 - Canvas API
+
+## Live Demo
+Visit the live demo at: https://GalNahoum.github.io/test-project
