@@ -16,4 +16,4 @@ An interactive web animation featuring bouncing Hebrew words that multiply when 
 ## Technologies Used
 - HTML5
 - JavaScript
-- Canvas API 
+- Canvas API
